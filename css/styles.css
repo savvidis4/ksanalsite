@@ -1,0 +1,90 @@
+body{
+    position: relative;
+    margin-top: 11%;
+    margin-left:0px;
+    margin-right:0px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.title{
+    position: relative;
+    font-size: 500%;
+}
+.slogan{
+    font-size: 200%;
+    position: relative;
+    margin-bottom: 6%;
+}
+
+.bottom{
+    background-color: #b07c50;
+    position: relative;
+    margin-top: 13%;
+    height: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* .FOOT{
+    padding-bottom: 10%;
+} */
+.buttons{
+    position: relative;
+    margin-left: 40%;
+}
+
+.btn {
+    background: #8a8a8a;
+    background-image: -webkit-linear-gradient(top, #8a8a8a, #616161);
+    background-image: -moz-linear-gradient(top, #8a8a8a, #616161);
+    background-image: -ms-linear-gradient(top, #8a8a8a, #616161);
+    background-image: -o-linear-gradient(top, #8a8a8a, #616161);
+    background-image: linear-gradient(to bottom, #8a8a8a, #616161);
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+.btn:hover {
+background: #b07c50;
+background-image: -webkit-linear-gradient(top, #b07c50, #9c7253);
+background-image: -moz-linear-gradient(top, #b07c50, #9c7253);
+background-image: -ms-linear-gradient(top, #b07c50, #9c7253);
+background-image: -o-linear-gradient(top, #b07c50, #9c7253);
+background-image: linear-gradient(to bottom, #b07c50, #9c7253);
+text-decoration: none;
+}
+
+.btns {
+    background: #8a8a8a;
+    background-image: -webkit-linear-gradient(top, #8a8a8a, #616161);
+    background-image: -moz-linear-gradient(top, #8a8a8a, #616161);
+    background-image: -ms-linear-gradient(top, #8a8a8a, #616161);
+    background-image: -o-linear-gradient(top, #8a8a8a, #616161);
+    background-image: linear-gradient(to bottom, #8a8a8a, #616161);
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 30px 10px 30px;
+    text-decoration: none;
+    
+  }
+  
+.btns:hover {
+background: #b07c50;
+background-image: -webkit-linear-gradient(top, #b07c50, #9c7253);
+background-image: -moz-linear-gradient(top, #b07c50, #9c7253);
+background-image: -ms-linear-gradient(top, #b07c50, #9c7253);
+background-image: -o-linear-gradient(top, #b07c50, #9c7253);
+background-image: linear-gradient(to bottom, #b07c50, #9c7253);
+text-decoration: none;
+}
